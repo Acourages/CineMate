@@ -13,6 +13,9 @@ Welcome to **CineMate**, your personal movie recommendation bot on Telegram! Cin
 3. **Select a Genre**: Choose a genre from the inline keyboard presented.
 4. **Receive Recommendations**: Enjoy personalized movie suggestions and overviews!
 
+## Dataset 📊
+The movie metadata used in this project is sourced from the [Movies Dataset on Kaggle](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/data?select=movies_metadata.csv). This dataset contains detailed information about various movies, including genres, titles, and overviews, which are utilized to provide personalized movie recommendations.
+
 Clone the repository:
    ```bash
    git clone https://github.com/Acourages/CineMate.git
