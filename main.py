@@ -3,7 +3,7 @@ import pandas as pd
 import random
 from movies.send_defaults import send_category  # Importing the function from send_defaults
 
-bot = TeleBot("7882824092:AAEO0mKUvZeBPr8225kp1OiaF8hSoO2JsjU")
+bot = TeleBot("")
 
 # Load the dataset
 data = pd.read_csv("movies_metadata.csv")
